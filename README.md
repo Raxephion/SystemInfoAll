@@ -18,7 +18,11 @@ A Python script that extracts comprehensive hardware and system information from
 pip install psutil
 Usage
 bashpython system_info.py
+
+```
 Output is displayed in terminal and saved to ~/sysinfo.txt
+Use Cases
+
 Use Cases
 
 IT Support: Quick system diagnostics and hardware inventory
